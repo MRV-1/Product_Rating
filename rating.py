@@ -7,8 +7,7 @@
 # - User-Based Weighted Average
 # - Weighted Rating
 
-#Bu bölümde amaç : Bir ürüne verilen puanlar üzerinden çeşitli değerlendirmeler yaparak
-# en doğru puanın nasıl hesaplanabileceğine dair bir uygulama yapmak
+# The aim of this section is : To make an application on how the most accurate score can be calculated by making various evaluations over the scores given to a product
 
 ############################################
 # Application : User and Time Weighted Course Score Calculation
